@@ -4,8 +4,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "cecd7e2f-f9b8-11ea-b152-f8e4e32421aa",
-            "deck_config_uuid": "cecd7e30-f9b8-11ea-9464-f8e4e32421aa",
+            "crowdanki_uuid": "c03e10a5-f9b9-11ea-878e-f8e4e32421aa",
+            "deck_config_uuid": "c03e10a6-f9b9-11ea-b4fa-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -19,8 +19,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "cece4026-f9b8-11ea-b01e-f8e4e32421aa",
-            "deck_config_uuid": "cece4027-f9b8-11ea-abd6-f8e4e32421aa",
+            "crowdanki_uuid": "c03eac2a-f9b9-11ea-a6b8-f8e4e32421aa",
+            "deck_config_uuid": "c03eac2b-f9b9-11ea-ba8d-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -34,8 +34,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "ceceb505-f9b8-11ea-b0ea-f8e4e32421aa",
-            "deck_config_uuid": "ceceb506-f9b8-11ea-b98c-f8e4e32421aa",
+            "crowdanki_uuid": "c03f480b-f9b9-11ea-831a-f8e4e32421aa",
+            "deck_config_uuid": "c03f480c-f9b9-11ea-9d63-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -49,8 +49,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "cecf77f2-f9b8-11ea-8299-f8e4e32421aa",
-            "deck_config_uuid": "cecf77f3-f9b8-11ea-bd61-f8e4e32421aa",
+            "crowdanki_uuid": "c0400cab-f9b9-11ea-9623-f8e4e32421aa",
+            "deck_config_uuid": "c0400cac-f9b9-11ea-a580-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -64,8 +64,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "ced014e1-f9b8-11ea-9559-f8e4e32421aa",
-            "deck_config_uuid": "ced014e2-f9b8-11ea-80c4-f8e4e32421aa",
+            "crowdanki_uuid": "c040a880-f9b9-11ea-8cea-f8e4e32421aa",
+            "deck_config_uuid": "c040a881-f9b9-11ea-8d66-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -73,6 +73,7 @@
             "media_files": [
                 "_AnKingRound.png"
             ],
+            "mid": 1600438442320,
             "name": "PATH30210 Endocrine",
             "notes": [
                 {
@@ -90,7 +91,7 @@
                         ""
                     ],
                     "guid": "b{2Vw}IlC6",
-                    "note_model_uuid": "ced089c0-f9b8-11ea-9f51-f8e4e32421aa",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
                     "tags": [
                         "#GEM2::PATH30210::Lecture1"
                     ]
@@ -110,7 +111,7 @@
                         ""
                     ],
                     "guid": "uAy;x-.#NA",
-                    "note_model_uuid": "ced089c0-f9b8-11ea-9f51-f8e4e32421aa",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
                     "tags": [
                         "#GEM2::PATH30210::Lecture1"
                     ]
@@ -130,7 +131,7 @@
                         ""
                     ],
                     "guid": "uTZQxWX3e?",
-                    "note_model_uuid": "ced089c0-f9b8-11ea-9f51-f8e4e32421aa",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
                     "tags": [
                         "#GEM2::PATH30210::Lecture1"
                     ]
@@ -140,8 +141,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "ced0d7b2-f9b8-11ea-b671-f8e4e32421aa",
-            "deck_config_uuid": "ced0d7b3-f9b8-11ea-9c94-f8e4e32421aa",
+            "crowdanki_uuid": "c0414482-f9b9-11ea-87f8-f8e4e32421aa",
+            "deck_config_uuid": "c0414483-f9b9-11ea-aa2a-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -155,8 +156,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "ced1994e-f9b8-11ea-b844-f8e4e32421aa",
-            "deck_config_uuid": "ced1994f-f9b8-11ea-90e0-f8e4e32421aa",
+            "crowdanki_uuid": "c041b93a-f9b9-11ea-8975-f8e4e32421aa",
+            "deck_config_uuid": "c041b93b-f9b9-11ea-bc34-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -168,13 +169,13 @@
             "notes": []
         }
     ],
-    "crowdanki_uuid": "cecc6cb2-f9b8-11ea-9c4a-f8e4e32421aa",
-    "deck_config_uuid": "cecc6cb3-f9b8-11ea-88c2-f8e4e32421aa",
+    "crowdanki_uuid": "c03cb1f9-f9b9-11ea-9f63-f8e4e32421aa",
+    "deck_config_uuid": "c03cb1fa-f9b9-11ea-b9bd-f8e4e32421aa",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "cecc6cb3-f9b8-11ea-88c2-f8e4e32421aa",
+            "crowdanki_uuid": "c03cb1fa-f9b9-11ea-b9bd-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -220,7 +221,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "cecd7e30-f9b8-11ea-9464-f8e4e32421aa",
+            "crowdanki_uuid": "c03e10a6-f9b9-11ea-b4fa-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -266,7 +267,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "cece4027-f9b8-11ea-abd6-f8e4e32421aa",
+            "crowdanki_uuid": "c03eac2b-f9b9-11ea-ba8d-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -312,7 +313,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ceceb506-f9b8-11ea-b98c-f8e4e32421aa",
+            "crowdanki_uuid": "c03f480c-f9b9-11ea-9d63-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -358,7 +359,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "cecf77f3-f9b8-11ea-bd61-f8e4e32421aa",
+            "crowdanki_uuid": "c0400cac-f9b9-11ea-a580-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -404,7 +405,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ced014e2-f9b8-11ea-80c4-f8e4e32421aa",
+            "crowdanki_uuid": "c040a881-f9b9-11ea-8d66-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -450,7 +451,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ced0d7b3-f9b8-11ea-9c94-f8e4e32421aa",
+            "crowdanki_uuid": "c0414483-f9b9-11ea-aa2a-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -496,7 +497,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ced1994f-f9b8-11ea-90e0-f8e4e32421aa",
+            "crowdanki_uuid": "c041b93b-f9b9-11ea-bc34-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -551,7 +552,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "ced089c0-f9b8-11ea-9f51-f8e4e32421aa",
+            "crowdanki_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
             "css": "/*The AnKing wishes you the best of luck! Be sure to check out our YouTube channel and Instagram for all things Anki and Med School related (including how to customize this card type and use these decks):  \n\t\twww.AnKingMed.com\n\t\t\t@ankingmed    \t\n\t\t\n    CLOZE-ANKINGMASTER V7        */\n\n/*~~~~~~~~USER CUSTOMIZATION START~~~~~~~~~*/\n/* You can choose colors at www.htmlcolorcodes.com */\n\n/* TIMER ON/OFF */\n.timer { display: block; } /* 'none' or 'block' */\n/* TAGS ON/OFF DESKTOP & MOBILE*/\n\t#tags-container { display: block; } /* ‘none’ or ‘block’ */\n.mobile #tags-container { display: none; } /* ‘none’ or ‘block’ */\n/* MOVE TAGS UP FOR 'NO-DISTRACTIONS' ADD-ON */\n#tags-container{ padding-bottom: 0px; } /* 0 normal, 55 to move up */\n/* ANKING IMAGE HYPERLINK ON/OFF */\n\t#pic {display: block; } /* 'none' or 'block' */\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { text-align:left; } \n\n/*FONT SIZE*/\n     /* DESKTOP */ html \n\t{ font-size: 28px; }\n     /* MOBILE */ .mobile\n         { font-size: 28px; }\n\t\t/* NOTE: anything with 'px' will keep a font that size indefinitely, 'rem' is a fraction of this size above and allows all text to change size with the above setting */\n\n/*HINT FONT SIZE*/ .hints \n\t{ font-size: .85rem; }\n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size*/\n\t#firstaid, #sketchy, #physeo, #additional { font-size: 1rem !important; } \n   /*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/\n\t.mobile #firstaid, .mobile #sketchy, .mobile #physeo, .mobile #additional { font-size: 20px!important; }\n\n/*FONT STYLE*/\t\n\t.card, kbd { font-family: Arial Greek, Arial; } /*Step exam's font is Arial Greek*/\n/*MAX IMAGE HEIGHT*/\n\timg {max-height: none; }\n /*MAX IMAGE WIDTH*/\n\t\t#extra img, #lecture img, #missed img, #pathoma img, #bnb img {max-width: 85%; }\n\t#firstaid img, #sketchy img, #physeo img, #additional img {max-width: 60%; }\n\n\n/* ~~COLORS~~ */\n/*DEFAULT TEXT COLOR*/ \n\t.card { color: black; }\n/*BACKGROUND COLOR*/ \n\t.card { background-color: #D1CFCE; }\n\t#tags-container { background-color: transparent; }\n    /*TIMER COUNTDOWN COLOR*/\n \t.timer { color: transparent; }\n/* CLOZE COLOR */\n\t.cloze { color: blue; }\n/* \"EXTRA\" FIELD COLOR */\n\t#extra { color: navy; }\n/* HINT COLOR*/\n\ta[href=\"#\"] { color: blue; }\n/* HINT REVEAL COLOR */\n\t.hints { color: #4297F9; }\n   /* Missed Questions Reveal Color */\n\t#missed { color: red; }\n       #missed a[href=\"#\"] { color: red!important; }\n\t.nightMode #missed a[href=\"#\"], .night_mode #missed a[href=\"#\"] { color: red!important; }\n\n/* ~~NIGHT MODE COLORS~~ */\n/* NM DEFAULT TEXT COLOR*/ \n\t.nightMode.card, .night_mode .card\n     { color: #FFFAFA !important; }\n/* NM BACKGROUND COLOR*/ \n\t.nightMode.card, .night_mode .card { background-color: #272828!important; }\n/* NM CLOZE COLOR */\n \t.nightMode .cloze, .night_mode .cloze { color: #4297F9!important; }\n/* NM \"EXTRA\" FIELD COLOR */\n\t.nightMode #extra, .night_mode #extra { color: magenta; }\n/* NM HINT COLOR */\n\t.nightMode a[href=\"#\"], .night_mode a[href=\"#\"] { color: #4297F9!important; }\n/* NM HINT REVEAL COLOR */\n\t.nightMode .hints, .night_mode .hints { color: cyan;}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE*/\nb { color: inherit; }\nu { color: inherit; } \ni  { color: inherit; }\n\n/* ~~~~~~~~END CUSTOMIZATION~~~~~~~~ */\n\nhtml { min-height: 100%; display: flex; flex-direction: column; }\n\n#qa { margin-top: 15px; padding-bottom: 2rem; }\n\n/* Formatting For Timer */\n.timer {\nfont-size: 20px;\nmargin: 12em auto auto auto;\n}\n\n/* Styling For Whole Card*/\n.card {\ntext-align: center;\nfont-size: 1rem;\nheight: 100%;\nmargin: 0px 15px;\nflex-grow: 1;\npadding-bottom: 1em;\n}\n.mobile .card { padding-bottom: 5em; }\n\n/* Details For IMAGES */\n.mobile .card img {max-width: 100%!important; }\n.mobile .card {margin: 0ex .3px;}\n\n#extra img { min-width: 30%; }\n.mobile #extra img, .mobile #lecture img, .mobile #missed img, .mobile #pathoma img, .mobile #bnb img, .mobile #firstaid img, .mobile #sketchy img, .mobile #physeo img, .mobile #additional img {max-width: 100%!important; }\n\n/* Classes for individual cards */\n.image40 img { width: 40%!important; }\n.image50 img { width: 50%!important; }\n.image60 img { width: 60%!important; }\n.image70 img { width: 70%!important; }\n.image80 img { width: 80%!important; }\n.image90 img { width: 90%!important; }\n.image40 img, .image50 img, .image60 img, .image70 img, .image80 img, .image90 img { display:block; margin-right:auto; margin-left: auto; }\n.mobile .image40 img, .mobile .image50 img, .mobile .image60 img, .mobile .image70 img, .mobile .image80 img, .mobile .image90 img {width: auto!important;}\n\n/*Compatibility with Image Style Editor add-on*/\n.mobile .card {--w:100%!important;}\n.card {--w:0%;}\n\n/*Max image width for resize images in editor add-on */\n    .card [class^=ui-] img {max-width: 100%!important; }\n\n/*Compatibility with resize images in editor add-on */\n    .resizer {min-width: 0%!important; }\n    .mobile .resizer {min-width:100%!important;}\n\n/*Image hover zoom*/\n#firstaid img:active { transform:scale(1.5); }\n#sketchy img:active { transform:scale(1.5); }\n#physeo img:active { transform:scale(1.5); }\n#additional img:active { transform:scale(1.5); }\n.mobile #firstaid img:active { transform:scale(1.0); }\n.mobile #sketchy img:active { transform:scale(1.0); }\n.mobile #physeo img:active { transform:scale(1.0); }\n.mobile #additional img:active { transform:scale(1.0); }\n\n/* Cloze format */\n.cloze { font-weight: bold; }\n\n/* Adjustments For Cloze Edit In Review On Mobile */\n.clozefield, .mobile .editcloze { display: none; }\n.editcloze, .mobile .clozefield { display:  block; }\n\n/* BEGIN HINT FIELDS */\n\n/* Hint Link */\na[href=\"#\"] {\n font-style: italic;\n padding: 0 !important;\n}\n\n/* Text When Hint Is Shown*/\n.hints { font-style: italic; }\n\n/* Put Bottom Hints Lower */\n#firstaid { padding-top: 40px!important; }\n/* #extra { padding-bottom: 40px!important; } */\n\n\n.hints + #extra { margin-top: 1rem; } /*add spacing between hints and extra field*/\n/* END HINT FIELDS  */\n\n/* EXTRA FIELD */\n#extra { font-style: italic; font-size: 1rem;}\n\n\n/* Fix to make pop-up dictionary images the right size */\n.qtip img {\n   max-width: 95% !important;\n   max-height: 95% !important;\n}\n\n/* Details for AnKing hyperlink image */\n#pic { opacity: 0.0; font-size: 16px; font-color: #F2E48E; font-family:Comic Sans!important; font-style:bold;}\n#pic:hover { opacity: 1; transition: opacity 0.2s ease; }\n.mobile #pic { display: none; }\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .1px;\n font-weight: bold;\n font-size: 10px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle !important;\n line-height: auto!important;\n height: auto!important;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336!important; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0!important; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5!important; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4!important; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688!important; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33!important; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800!important;}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722!important; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E!important; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B!important; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { display: inline-block; } \n.centerbox {text-align:center;}\n\n/*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */\n.mobile .card img {height:unset  !important; width:unset  !important;}\n/*End of style added by resize image add-on*/",
             "flds": [
                 {
