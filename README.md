@@ -13,7 +13,7 @@ With everything being online only, I think having decent study material is more 
 5) Add/Edit cards then push your changes to GitHub so others can view/use your cards.
 
 Current Deck Structure:
-
+```
 ├───GEM2
 │   ├───ANAT20160 GI/GU Structure
 │   ├───CLIP30230 GI/GU Theraputics
@@ -22,4 +22,4 @@ Current Deck Structure:
 │   ├───PATH30210 Endocrine
 │   ├───PHYS30240 GI/GU Physiology
 │   └───RDGY30470 Radiology
-
+```
