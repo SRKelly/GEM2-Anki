@@ -4,23 +4,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "c03e10a5-f9b9-11ea-878e-f8e4e32421aa",
-            "deck_config_uuid": "c03e10a6-f9b9-11ea-b4fa-f8e4e32421aa",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "_AnKingRound.png"
-            ],
-            "name": "ANAT20160 GI/GU Structure",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "c03eac2a-f9b9-11ea-a6b8-f8e4e32421aa",
-            "deck_config_uuid": "c03eac2b-f9b9-11ea-ba8d-f8e4e32421aa",
+            "crowdanki_uuid": "6bb2e483-f9bc-11ea-8a6e-f8e4e32421aa",
+            "deck_config_uuid": "6bb2e484-f9bc-11ea-8462-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -34,8 +19,106 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "c03f480b-f9b9-11ea-831a-f8e4e32421aa",
-            "deck_config_uuid": "c03f480c-f9b9-11ea-9d63-f8e4e32421aa",
+            "crowdanki_uuid": "6bb35a35-f9bc-11ea-a081-f8e4e32421aa",
+            "deck_config_uuid": "6bb35a36-f9bc-11ea-bb76-f8e4e32421aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_AnKingRound.png"
+            ],
+            "mid": 1600438442320,
+            "name": "PATH30210 Endocrine",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The endocrine and nervous systems work closely together to regulate {{c1::life processes}}&nbsp;and maintain {{c2::homeostasis}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "b{2Vw}IlC6",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
+                    "tags": [
+                        "#GEM2::PATH30210::Lecture1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Most endocrine processes are regulated by {{c1::negative}} feedback systems, often involving concentrations of specific ions or chemical compounds.",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uAy;x-.#NA",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
+                    "tags": [
+                        "#GEM2::PATH30210::Lecture1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Small, lipid}} soluble hormones enter target cells and bind 2 intracellular receptors which in turn activate/repress gene expression.",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uTZQxWX3e?",
+                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
+                    "tags": [
+                        "#GEM2::PATH30210::Lecture1"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6bb3cf09-f9bc-11ea-add2-f8e4e32421aa",
+            "deck_config_uuid": "6bb3cf0a-f9bc-11ea-b284-f8e4e32421aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_AnKingRound.png"
+            ],
+            "name": "ANAT20160 GI/GU Structure",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6bb44440-f9bc-11ea-bfb8-f8e4e32421aa",
+            "deck_config_uuid": "6bb44441-f9bc-11ea-83db-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -49,8 +132,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "c0400cab-f9b9-11ea-9623-f8e4e32421aa",
-            "deck_config_uuid": "c0400cac-f9b9-11ea-a580-f8e4e32421aa",
+            "crowdanki_uuid": "6bb4e008-f9bc-11ea-81b2-f8e4e32421aa",
+            "deck_config_uuid": "6bb4e009-f9bc-11ea-8a7c-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -64,85 +147,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "c040a880-f9b9-11ea-8cea-f8e4e32421aa",
-            "deck_config_uuid": "c040a881-f9b9-11ea-8d66-f8e4e32421aa",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "_AnKingRound.png"
-            ],
-            "mid": 1600438442320,
-            "name": "PATH30210 Endocrine",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "The endocrine and nervous systems work closely together to regulate {{c1::life processes}}&nbsp;and maintain {{c2::homeostasis}}",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "b{2Vw}IlC6",
-                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
-                    "tags": [
-                        "#GEM2::PATH30210::Lecture1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Most endocrine processes are regulated by {{c1::negative}} feedback systems, often involving concentrations of specific ions or chemical compounds.",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "uAy;x-.#NA",
-                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
-                    "tags": [
-                        "#GEM2::PATH30210::Lecture1"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "{{c1::Small, lipid}} soluble hormones enter target cells and bind to intracellular receptors which in turn activate/repress gene expression.",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "uTZQxWX3e?",
-                    "note_model_uuid": "c040f66a-f9b9-11ea-8cce-f8e4e32421aa",
-                    "tags": [
-                        "#GEM2::PATH30210::Lecture1"
-                    ]
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "c0414482-f9b9-11ea-87f8-f8e4e32421aa",
-            "deck_config_uuid": "c0414483-f9b9-11ea-aa2a-f8e4e32421aa",
+            "crowdanki_uuid": "6bb554fb-f9bc-11ea-8470-f8e4e32421aa",
+            "deck_config_uuid": "6bb554fc-f9bc-11ea-8550-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -156,8 +162,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "c041b93a-f9b9-11ea-8975-f8e4e32421aa",
-            "deck_config_uuid": "c041b93b-f9b9-11ea-bc34-f8e4e32421aa",
+            "crowdanki_uuid": "6bb5a2d7-f9bc-11ea-b3cc-f8e4e32421aa",
+            "deck_config_uuid": "6bb5a2d8-f9bc-11ea-972f-f8e4e32421aa",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -169,13 +175,13 @@
             "notes": []
         }
     ],
-    "crowdanki_uuid": "c03cb1f9-f9b9-11ea-9f63-f8e4e32421aa",
-    "deck_config_uuid": "c03cb1fa-f9b9-11ea-b9bd-f8e4e32421aa",
+    "crowdanki_uuid": "6bb1d303-f9bc-11ea-b45c-f8e4e32421aa",
+    "deck_config_uuid": "6bb1d304-f9bc-11ea-86ec-f8e4e32421aa",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c03cb1fa-f9b9-11ea-b9bd-f8e4e32421aa",
+            "crowdanki_uuid": "6bb1d304-f9bc-11ea-86ec-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -221,7 +227,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c03e10a6-f9b9-11ea-b4fa-f8e4e32421aa",
+            "crowdanki_uuid": "6bb2e484-f9bc-11ea-8462-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -267,7 +273,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c03eac2b-f9b9-11ea-ba8d-f8e4e32421aa",
+            "crowdanki_uuid": "6bb35a36-f9bc-11ea-bb76-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -313,7 +319,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c03f480c-f9b9-11ea-9d63-f8e4e32421aa",
+            "crowdanki_uuid": "6bb3cf0a-f9bc-11ea-b284-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -359,7 +365,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c0400cac-f9b9-11ea-a580-f8e4e32421aa",
+            "crowdanki_uuid": "6bb44441-f9bc-11ea-83db-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -405,7 +411,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c040a881-f9b9-11ea-8d66-f8e4e32421aa",
+            "crowdanki_uuid": "6bb4e009-f9bc-11ea-8a7c-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -451,7 +457,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c0414483-f9b9-11ea-aa2a-f8e4e32421aa",
+            "crowdanki_uuid": "6bb554fc-f9bc-11ea-8550-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -497,7 +503,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c041b93b-f9b9-11ea-bc34-f8e4e32421aa",
+            "crowdanki_uuid": "6bb5a2d8-f9bc-11ea-972f-f8e4e32421aa",
             "dyn": false,
             "lapse": {
                 "delays": [
