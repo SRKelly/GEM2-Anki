@@ -16,6 +16,11 @@ Current Deck Structure:
 ```
 ├───GEM2
 │   ├───ANAT20160 GI/GU Structure
+│   │     ├─── Lecture 1
+│   │     .
+│   │     .
+│   │     .
+│   │     └─── Lecture N
 │   ├───CLIP30230 GI/GU Theraputics
 │   ├───PATH30030 Haematology/Immunosuppression
 │   ├───PATH30200 GI/GU Illness
