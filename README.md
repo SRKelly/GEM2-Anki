@@ -27,3 +27,6 @@ Current Deck Structure:
 │   ├───PHYS30240 GI/GU Physiology
 │   └───RDGY30470 Radiology
 ```
+
+### Tagging convention:
+For this deck, the cards are split up by the module but the cards themselves should be tagged by module and lecture number. For example a card from lecture 3 of theraputics should be tagged as #GEM2::CLIP30230::Lecture3
